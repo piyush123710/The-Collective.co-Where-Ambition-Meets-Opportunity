@@ -1,0 +1,6 @@
+{
+  "name": "The Collective.co",
+  "description": "Where Ambition Meets Opportunity - A premium community for creators, founders, entrepreneurs and professionals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
